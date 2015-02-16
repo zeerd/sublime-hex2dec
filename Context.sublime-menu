@@ -1,0 +1,6 @@
+
+[
+	{ "caption": "-" },
+	{"caption": "Dec 2 Hex", "command": "dec_to_hex"},
+	{"caption": "Hex 2 Dec", "command": "hex_to_dec"}
+] 
